@@ -1,0 +1,14 @@
+.image {
+  width: auto;
+  height: 8rem;
+}
+
+.profiles {
+  display: flex;
+  flex-direction: row;
+  margin: 0 0 20px 0;
+}
+.profile {
+  width: 200px;
+  margin: 0 30px 0 0;
+}
